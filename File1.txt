@@ -3,3 +3,5 @@ Initial file 1 text in master branch - another change to file 1
 Changes
 
 Amend change
+
+v2.0 changes
